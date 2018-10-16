@@ -1,0 +1,13 @@
+﻿"Report Name: Ad Group Report"
+"Report Time: 4/23/2017,4/25/2017"
+"Time Zone: (GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London"
+"Last Completed Available Day: 5/15/2017 1:10:00 PM (GMT)"
+"Last Completed Available Hour: 5/15/2017 1:10:00 PM (GMT)"
+"Report Aggregation: Hourly"
+"Report Filter: "
+"Potential Incomplete Data: true"
+"Rows: 0"
+
+"AdGroupId","AdGroupName","CampaignId","CampaignName","Clicks","CostPerConversion","Spend","ConversionRate","Impressions","GregorianDate","Hour"
+
+"©2017 Microsoft Corporation. All rights reserved. "
